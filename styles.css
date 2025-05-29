@@ -1,0 +1,18 @@
+body {
+background-color: rgb(103, 103, 231);
+font-size:23px;
+line-height: 1.5;
+margin: 1.5em;
+}
+
+.prawa{
+background-color: grey;
+position: relative;
+margin-bottom:0px;
+text-align: center;
+}
+
+.dhcp2{
+object-position: right;
+
+}
